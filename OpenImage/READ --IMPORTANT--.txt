@@ -1,0 +1,6 @@
+How to install all dependencies to run the project.
+
+- Install Python 3.x and add to the path
+- Go to cmd and access the folder of project
+- Use the  command: pip install -r requirement.txt
+- Run the file main.py 
